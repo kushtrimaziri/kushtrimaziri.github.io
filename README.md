@@ -15,4 +15,4 @@ HTML5 · CSS3 · Vanilla JavaScript · GitHub Pages
 
 ## Contact
 
-For project inquiries, visit the [portfolio contact section](https://kushtrimaziri.github.io/Kushtrim-Portfolio/#contact).
+For project inquiries, visit the [portfolio contact section](https://kushtrimaziri.github.io/#contact).
